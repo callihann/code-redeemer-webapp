@@ -1,0 +1,18 @@
+#hiddenStatus, #hiddenLink {
+    visibility: hidden;
+}
+
+#enterCodeText {
+    font-weight: bold;
+}
+
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
